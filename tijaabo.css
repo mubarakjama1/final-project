@@ -1,0 +1,49 @@
+* {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bilaw {
+    height: 80px;
+    display: flex;
+}
+.ku-xige {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+h1 {
+    width: 400px;
+}
+
+.ururiye {
+    list-style: none;
+    display: flex;
+}
+
+.gudaha_1 {
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.gudaha_1:hover{
+    text-decoration: underline;
+}
+
+.gaarah_2 {
+    
+    border: 2px solid black;
+}
+
+.gaarah_2:hover {
+    text-decoration: none;
+}
